@@ -3,6 +3,8 @@
 A Power BI dashboard analyzing Real Madrid’s 2025‑26 season performance — combining player statistics, managerial results, and team efficiency metrics into a single interactive report.
 
 ---
+## 🖥️ Dashboard Overview
+![Dashboard](https://github.com/yaswanthsaikagitala/realmadrid_dashboard/blob/main/1788164000335-923bb9fe-f2ab-4563-98e6-1688d874550d_1.jpg?raw=true)
 
 ## 📊 Overview
 This dashboard visualizes Real Madrid’s season using multiple data perspectives:
@@ -30,12 +32,17 @@ This dashboard visualizes Real Madrid’s season using multiple data perspecti
 | GK | 1.12 |
 | DF | 0.71 |
 
+  ![Real Madrid Goal distribution](https://github.com/yaswanthsaikagitala/realmadrid_dashboard/blob/main/1788164000335-923bb9fe-f2ab-4563-98e6-1688d874550d_3.jpg?raw=true)
 ### 🎯 Goal Distribution
 A pie chart shows goals scored by individual players:
 - **Kylian Mbappé:** 42 (35.9 %)  
 - **Vinícius Júnior:** 22 (18.8 %)  
 - **Rodrygo:** 9 (7.7 %)  
 - **Others:** spread across midfielders and defenders.
+
+  ## 📈 Season Overview
+![Season Overview](https://github.com/yaswanthsaikagitala/realmadrid_dashboard/blob/main/1788164000335-923bb9fe-f2ab-4563-98e6-1688d874550d_2.jpg?raw=true)
+
 
 ### 📈 Season Review by Month
 Line chart tracking matches played, won, drawn, and lost from **Aug 2025 → May 2026**, highlighting performance peaks in **Jan 2026** and **Apr 2026**.
